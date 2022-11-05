@@ -13,3 +13,5 @@ After compiling the program runs series of 10 easy questions of multiple choices
 * Operational offline mode
   * Regular refreshing of offline questions database
 * Proper decryption of special signs
+### Licences
+Open Trivia Database used under the Creative Commons Attribution-ShareAlike 4.0 International License.
